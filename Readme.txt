@@ -1,4 +1,4 @@
-#FLIGHT RESERVATION SYSTEM
+# FLIGHT RESERVATION SYSTEM
 
 This is a Flight Reservation System.
 The project is about the Booking of flight using the application 
