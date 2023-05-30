@@ -62,9 +62,6 @@ The Flight Reservation System is released under the [MIT License](LICENSE). Feel
 
 ## Acknowledgments
 
-We would like to acknowledge the following individuals for their contributions to the Flight Reservation System:
-
-- [Your Name]: for [specific contribution].
-- [Collaborator Name]: for [specific contribution].
+- This Flight Reservation System is inspired by various airlines reservation systems and online resources
 
 Thank you for using the Flight Reservation System! We hope it meets your requirements and provides a seamless flight booking experience.
