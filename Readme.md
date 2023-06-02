@@ -30,6 +30,17 @@ To use the Flight Reservation System, follow the steps below:
 
 5. Launch the application by running the "Project.py" file using Python. Make sure you have the correct Python environment and dependencies installed.
 
+## Database Connection
+
+To connect your database first change the `Server = "--YOUR SERVER NAME HERE--" ` with your pc server in the `project.py` file 
+
+```
+connection = pyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-4LORV5Q\SQLEXPRESS;' 
+'Database=FRS;' 'Trusted_connection=yes;')
+```
+
+The above code is where you going to change the Server name!!
+
 ## Usage
 
 After launching the Flight Reservation System application, you will be presented with a user-friendly interface that allows you to interact with the system. The application provides the following functionality:
